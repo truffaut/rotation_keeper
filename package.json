@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repo": "https://github.com/truffaut/rotation_keeper.git",
   "author": "weedmaster2000",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
